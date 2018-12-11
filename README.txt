@@ -1,0 +1,1 @@
+Het wachtwoord voor mysql connection is op "root" gezet.
